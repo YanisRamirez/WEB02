@@ -1,3 +1,24 @@
+h3
+{color: #fff;
+    
+}
+h1
+{color: #fff;
+    font-size:60px;
+    position:relative;
+  
+}
+
+h2{
+    font-family: Times;
+    font-size:20px;
+}
+
+body{
+    background-color:#ccc;
+}
+
+
 .this-fall {
 	color: #000;
 	margin: 10px;
