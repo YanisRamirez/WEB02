@@ -1,0 +1,104 @@
+h3
+{color: #fff;
+    
+}
+h1
+{color: #fff;
+    font-size:60px;
+    position:relative;
+  
+}
+
+h4{
+    color:#000;
+     font-size:20px;
+}
+
+p{
+    color:#000;
+    position:;
+    margin:300px;
+font-size:60px;
+}
+
+ div{
+    position:relative;
+    color:000;
+    font-family:Helvetica;
+    font-size:60px;
+}
+
+body{
+    background-color:#000;
+}
+.col{
+     position:relative;
+     margin:300px;
+}
+
+
+}
+
+@media screen and (max-width: 722px) {
+	#works img {
+		margin: 0 auto;
+	}	
+}
+
+@media screen and (min-width: 758px) {
+.navbar-right li a {
+    margin-top: 10px;
+}
+}
+
+footer {
+	font-size: 0.8em;
+	line-height: 1.3em;
+	margin-bottom: 40px;
+	padding-left: 20px;
+}
+
+.img-centered {
+    margin: 0 auto;
+}
+
+
+.buttons {
+    margin-top: 200px;
+    margin-left: 200px;
+    position:relative;
+}
+
+div .btn-1 {
+  width: 250px;
+  height: 180px;
+  margin-right: 210px;
+  opacity: 0.5;
+}
+
+a {
+  font-family: Helvetica;
+  color: black;
+  font-size: 18pt;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:hover {
+     color: red;
+     text-decoration: none;
+ }
+
+a:visited {
+  text-decoration: none;
+}
+
+ .btn-1:hover {
+    background-color: black;
+ }
+
+ .btn-1:visited {
+  background-color: white;
+}
+    
+}
